@@ -65,21 +65,22 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'd00bai Guide',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'd00bai',
+          src: 'img/d00bai.svg',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guide to Dubai',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://d00bai.com', label: 'Apply to d00bai', position: 'left'},
+          //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/reachjason/d00bai-guide',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'Welcome',
-                to: '/docs/intro',
+                to: '/introduction',
               },
             ],
           },
