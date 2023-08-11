@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: "Hitchhiker's Guide to d00bai",
   tagline: 'a simple guide to moving & living in the uae from d00bai.com',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/d00bai.svg',
 
   // Set the production url of your site here
   url: 'https://guide.d00bai.com',
