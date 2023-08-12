@@ -1,6 +1,12 @@
-# Website
+# Hitchhiker's Guide to d00bai
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/) and is completely open sourced and indexed.
+
+This is a living document for the d00bai.com fam that contains information, tips and random nuances that you may find helpful in your move and stay in the UAE. This is a volunteer and crowdsourced effort and if you find that something is missing, post on one of the channels or make an addition.
+
+This guide is fully open source and is built with love by the d00bai community.
+
+We hope it is helpful! Cheers
 
 ### Installation
 
